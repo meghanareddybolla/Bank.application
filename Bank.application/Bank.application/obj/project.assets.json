@@ -474,9 +474,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/meghana/Projects/Bank.application/Bank.application/Bank.application/Bank.application.csproj",
-      "projectName": "Bank.application",
-      "projectPath": "/Users/meghana/Projects/Bank.application/Bank.application/Bank.application/Bank.application.csproj",
+      "projectUniqueName": "/Users/meghana/Projects/Bank.application/Bank.application/Bank.application/Bank.application.API.csproj",
+      "projectName": "Bank.application.API",
+      "projectPath": "/Users/meghana/Projects/Bank.application/Bank.application/Bank.application/Bank.application.API.csproj",
       "packagesPath": "/Users/meghana/.nuget/packages/",
       "outputPath": "/Users/meghana/Projects/Bank.application/Bank.application/Bank.application/obj/",
       "projectStyle": "PackageReference",
